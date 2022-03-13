@@ -6,7 +6,8 @@ The site needed:
 * Div tags changed to semantic tags
 * Redundant code removed
 
-![Changing the div tag to article, adding id for the article and removing class= "search-engine-optimization"](../Dwight-Refactoring/Develop/assets/images/Screenshot%202022-03-12%20183612.png)
+![Changing the div tag to article, adding id for the article and removing class= "search-engine-optimization"](../Dwight-Refactoring/assets/images/Screenshot%202022-03-12%20183612.png)
 
 this website was deployed to the following url:
 
+https://wonderful-poincare-ac36b1.netlify.app/
